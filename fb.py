@@ -12,8 +12,8 @@ import sys
 
 driver = webdriver.Firefox()
 
-facebook_username="0942878977"
-facebook_password="sao101thang"
+facebook_username=""  #<--- dien username 
+facebook_password=""  #<--- dien password
 
 print "BBBBBBBBB"
 print "BBBBBBBBBBB"
